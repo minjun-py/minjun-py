@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm minjun</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minjun-py" alt="minjun-py" /></a> </p>
-
 - 🔭 I’m currently working on **Web backend development**
 
 - 🌱 I’m currently learning **backend, coding test, and a little HTML&CSS**
@@ -22,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minjun-py&show_icons=true&locale=en" alt="minjun-py" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minjun-py&" alt="minjun-py" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minjun-py" alt="minjun-py" /></a> </p>
