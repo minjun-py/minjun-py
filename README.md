@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm minjun</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Backend developer</h3>
 
-- 🔭 I’m currently working on **Web backend development**
+- 🔭 I’m currently working on **Backend development**
 
 - 🌱 I’m currently learning **backend, coding test, HTML&CSS, and Deep Learning & Data science**
 
