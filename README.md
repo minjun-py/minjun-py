@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **backend, coding test, HTML&CSS, and Deep Learning & Data science**
+- 🌱 I’m currently learning **server, database, infra, DDD, AOP**
 
 - 📫 How to reach me **rapthon@hanyang.ac.kr**
 
