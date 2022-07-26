@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **server, database, infra, DDD, AOP**
+- 🌱 I’m currently learning **server, log, infra, DDD, AOP**
 
 - 📫 How to reach me **rapthon@hanyang.ac.kr**
 
